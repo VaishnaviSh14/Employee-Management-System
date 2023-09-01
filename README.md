@@ -1,5 +1,5 @@
 # Employee Management System - 
-Employee Management System Project allows you to manage all employee information in a centralized database where you can check and update and view employee details, and can delete in case employee leaves the company. 
+Employee Management System Project allows you to manage all employee information in a centralized database where you can check, update and view employee details, and can delete in case employee leaves the company. 
 
 Technologies Used: Core Java (Swing & AWT)
 
