@@ -11,7 +11,7 @@ Images -
 
 <img width="793" alt="image" src="https://github.com/VaishnaviSh14/Employee-Management-System/assets/123576868/d2ed250d-c538-4369-8653-b61e4353a90d">
 
-<img width="444" alt="image" src="https://github.com/VaishnaviSh14/Employee-Management-System/assets/123576868/bc58f3a3-23cf-4c1e-96a7-8c155f97d290">
+<img width="442" alt="image" src="https://github.com/VaishnaviSh14/Employee-Management-System/assets/123576868/008f75c4-3e2e-4551-a1c2-9a16456535b1">
 
 <img width="431" alt="image" src="https://github.com/VaishnaviSh14/Employee-Management-System/assets/123576868/a276c04a-d49a-478d-bfd0-669bcee68a4e">
 
